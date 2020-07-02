@@ -25,6 +25,11 @@ body{
 	color: #FFF;
 }
 
+#nav-list li a:hover{
+	background-color: #3A6580;
+	opacity: .8;
+}
+
 hr{
 	margin:0;
 	margin-right: auto;
