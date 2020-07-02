@@ -1,0 +1,52 @@
+body{
+	font-size: 16px;
+	background-color: #FF8282;
+}
+
+#header-nav{
+	background-color: #FFFE9C;
+}
+
+#title-text{
+	color: #528DB3;
+	font-size: 1.8em;
+	text-shadow: 1px 1px 1px #222;
+}
+.navbar-toggler{
+	background-color: #69C5FF;
+}
+
+#nav-list {
+	margin-top: 10px;
+	background-color: #528DB3;
+}
+
+#nav-list li a{
+	color: #FFF;
+}
+
+hr{
+	margin:0;
+	margin-right: auto;
+	margin-left: auto;
+	border: 1px solid white;
+	width: 80%;
+}
+
+#main-content h1{
+	margin-top: 30px;
+}
+
+#item-text{
+	padding: 20px;
+	background-color: #B34949;
+	color: #FFF;
+	margin-top: 30px;
+}
+
+#item-text h2{
+}
+
+span{
+	
+}
